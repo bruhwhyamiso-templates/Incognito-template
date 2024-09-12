@@ -33,10 +33,10 @@
     "@amethystnetwork-dev/incognito-gfiles": "https://github.com/amethystnetwork-dev/Incognito-gfiles/archive/ede130174c30fc6931b3e7ba842341d90f958f5e.tar.gz",
     "@titaniumnetwork-dev/ultraviolet": "^2.0.0",
     "@tomphttp/bare-server-node": "^2.0.1",
-    "body-parser": "^1.20.2",
+    "body-parser": "^1.20.3",
     "connect": "^3.7.0",
     "serve-index": "^1.9.1",
-    "serve-static": "^1.15.0"
+    "serve-static": "^1.16.1"
   },
   "engines": {
     "npm": ">=8.0.0",
